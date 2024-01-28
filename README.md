@@ -1,4 +1,4 @@
-# ShopStore
+# Blog - GraphQL & React
 
 This project is a blog website built using `React` and `GraphQL`. It utilizes various technologies and libraries to create a seamless and interactive user experience.
 ![Screenshot 2](./public/sticker.gif)
